@@ -1,0 +1,25 @@
+
+body{
+    font-family: 'Coiny', cursive;
+
+}
+
+
+.headerset{
+    padding-top: 250px;
+    box-sizing:border-box
+    
+}
+
+.headerset h2{
+font-size: 42px;
+}
+.carousel-item{
+    background-size:100% 100%;
+    background-attachment: fixed;
+    height : 660px;
+    width:100%;
+}
+
+
+ 
